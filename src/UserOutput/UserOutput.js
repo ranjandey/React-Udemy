@@ -5,7 +5,7 @@ const userOutput = (props) =>{
     return(
         <div className='UserOutput'>
             <p>{props.name} Started Learning React</p>
-            <p>React Course Needs to be completed by March</p>
+            <p>By March I will Complete React Course on Udemy!!!</p>
         </div>
     )
 };
